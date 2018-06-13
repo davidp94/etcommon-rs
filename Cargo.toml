@@ -5,6 +5,7 @@ members = [
   "./hexutil",
   "./block",
   "./block-core",
+  "./block-transaction",
   "./trie",
   "./trie/rocksdb",
   "./trie/memory",
